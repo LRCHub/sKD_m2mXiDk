@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Overjoy ★ OVERDOSE!!",
+  "base_artist": "BilliumMoto、黒皇帝、Sobrem",
+  "createdAt": "2026-03-26T07:17:57.982207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overjoy",
+      "artist": "Leslie Parrish",
+      "has_synced": false,
+      "path": "select/01_Overjoy_Leslie_Parrish.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Overjoy ★ OVERDOSE!!",
+      "artist": "BilliumMoto",
+      "has_synced": true,
+      "path": "select/02_Overjoy_★_OVERDOSE!!_BilliumMoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Overjoy ★ OVERDOSE!!",
+      "artist": "BilliumMoto, 黒皇帝, Sobrem & valley.exe",
+      "has_synced": true,
+      "path": "select/03_Overjoy_★_OVERDOSE!!_BilliumMoto,_黒皇帝,_Sobrem_&_valley.exe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Overjoy ★ OVERDOSE!!",
+      "artist": "BilliumMoto, 黒皇帝, Sobrem, vally.exe",
+      "has_synced": true,
+      "path": "select/04_Overjoy_★_OVERDOSE!!_BilliumMoto,_黒皇帝,_Sobrem,_vally.exe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Overjoy ★ OVERDOSE!!",
+      "artist": "BilliumMoto, 黒皇帝 và Sobrem",
+      "has_synced": true,
+      "path": "select/05_Overjoy_★_OVERDOSE!!_BilliumMoto,_黒皇帝_và_Sobrem.lrc"
+    }
+  ]
+}
